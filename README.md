@@ -11,5 +11,11 @@
 * mv file.extension file.extension = rename file
 * mv file.extension folder-name = move file to specified folder
 * pwd = writes the full, current path
-Here's my stuff
--new line
+* cp = copies the selected file.
+
+#  Flags 
+## Flags are used to in combination with commands. Each property does different things.
+
+1. -l   Displays a more detailed environment on all files.
+2. -a   Shows all files and hidden files.
+3. -F   Deletes all inside folder with no prompt.
